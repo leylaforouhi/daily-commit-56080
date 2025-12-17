@@ -1,4 +1,4 @@
-def count_digits(number):
+def count_digits(numbe):
     return len(str(abs(number)))
 
 if __name__ == "__main__":
